@@ -2,6 +2,7 @@ CHOICES
 
 First Choice: 1a____
 Second Choice: 2a____
-Third Choice: 3c____
-Fourth Choice: 5d____
-Fifth Choice: ____
+Third Choice: 3a/3c____
+Fourth Choice: 4a/5d____
+Fifth Choice: 5a____
+
